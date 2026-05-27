@@ -1,16 +1,117 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**AmanenderRreddy/AmanenderRreddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Visitor Count](https://komarev.com/ghpvc/?username=AmanenderRreddy&label=Profile%20Views&color=0e75b6&style=flat)
 
-Here are some ideas to get you started:
+# Hi there, I'm Challa Amanender Reddy! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+3%2B+Years+Experience;WordPress+Developer+%7C+PHP+%7C+Java;React.js+%7C+Spring+Boot+%7C+REST+APIs;Building+Scalable+Web+Applications)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 🙋‍♂️ About Me
+
+I'm a passionate **Full Stack Developer** and **WordPress Developer** with **3+ years of experience** building scalable, production-ready web applications. I specialize in delivering end-to-end solutions — from robust backend architectures with **Java & Spring Boot** to dynamic, responsive frontends with **React.js**.
+
+- 🚀 **Live Production:** [seniorcarehomeent.com](https://seniorcarehomeent.com) — serving 2,800+ senior care facilities across the US
+- 🌐 **Live Project:** [newtreation.inventmore.com](https://newtreation.inventmore.com) — full-featured business web solution
+- 💡 I turn complex requirements into clean, efficient code
+- ☕ Powered by coffee and curiosity — I'm always learning something new
+- 🎯 I love building things that actually help real people
+- 🌍 Based in Delray Beach, Florida, US
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![AJAX](https://img.shields.io/badge/AJAX-005C97?style=for-the-badge&logo=javascript&logoColor=white)
+
+### ⚙️ Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-1572B6?style=for-the-badge&logo=cloud&logoColor=white)
+
+### 🔧 Tools & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amanender-reddy-ch)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://amanender-reddy-portfolio.netlify.app)
+[![Senior Care Home](https://img.shields.io/badge/Live_Project_1-seniorcarehomeent.com-brightgreen?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://seniorcarehomeent.com)
+[![Newtreation](https://img.shields.io/badge/Live_Project_2-newtreation.inventmore.com-blue?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://newtreation.inventmore.com)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AmanenderRreddy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanenderRreddy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AmanenderRreddy&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AmanenderRreddy&theme=darkhub&no-frame=true&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate!
+
+<div align="center">
+
+| 🔗 Platform | 🌐 Link |
+|-------------|---------|
+| 💼 LinkedIn | [linkedin.com/in/amanender-reddy-ch](https://linkedin.com/in/amanender-reddy-ch) |
+| 🖥️ Portfolio | [amanender-reddy-portfolio.netlify.app](https://amanender-reddy-portfolio.netlify.app) |
+| 🏥 Live Project 1 | [seniorcarehomeent.com](https://seniorcarehomeent.com) |
+| 🌿 Live Project 2 | [newtreation.inventmore.com](https://newtreation.inventmore.com) |
+
+</div>
+
+<div align="center">
+
+### 💬 "Code is not just syntax — it's the bridge between imagination and reality."
+
+*Open to exciting opportunities, collaborations, and interesting projects. Feel free to reach out!* 🚀
+
+</div>
