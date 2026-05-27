@@ -4,7 +4,7 @@
 
 # Hi there, I'm Challa Amanender Reddy! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+3%2B+Years+Experience;WordPress+Developer+%7C+PHP+%7C+Java;React.js+%7C+Spring+Boot+%7C+REST+APIs;Building+Scalable+Web+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+3Years+Experience;WordPress+Developer+%7C+PHP+%7C+Java;React.js+%7C+Spring+Boot+%7C+REST+APIs;Building+Scalable+Web+Applications)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,14 +12,14 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a passionate **Full Stack Developer** and **WordPress Developer** with **3+ years of experience** building scalable, production-ready web applications. I specialize in delivering end-to-end solutions — from robust backend architectures with **Java & Spring Boot** to dynamic, responsive frontends with **React.js**.
+I'm a passionate **Full Stack Developer** and **WordPress Developer** with **3 years of experience** building scalable, production-ready web applications. I specialize in delivering end-to-end solutions — from robust backend architectures with **Java & Spring Boot** to dynamic, responsive frontends with **React.js**.
 
 - 🚀 **Live Production:** [seniorcarehomeent.com](https://seniorcarehomeent.com) — serving 2,800+ senior care facilities across the US
 - 🌐 **Live Project:** [newtreation.inventmore.com](https://newtreation.inventmore.com) — full-featured business web solution
 - 💡 I turn complex requirements into clean, efficient code
 - ☕ Powered by coffee and curiosity — I'm always learning something new
 - 🎯 I love building things that actually help real people
-- 🌍 Based in Delray Beach, Florida, US
+- 🌍 Based in Boca Raton, Florida, US
 
 ---
 
