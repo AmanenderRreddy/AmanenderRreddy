@@ -55,9 +55,9 @@ I'm a passionate **Full Stack Developer** and **WordPress Developer** with **3 y
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AmanenderRreddy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmanenderRreddy&theme=tokyonight" alt="GitHub Stats" height="165"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanenderRreddy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmanenderRreddy&theme=tokyonight" alt="Top Languages" height="165"/>
 
 </div>
 
@@ -69,11 +69,11 @@ I'm a passionate **Full Stack Developer** and **WordPress Developer** with **3 y
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 GitHub Activity
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AmanenderRreddy&theme=tokyonight&no-frame=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AmanenderRreddy&theme=tokyonight&utcOffset=5" alt="Productive Time" />
 
 </div>
 
